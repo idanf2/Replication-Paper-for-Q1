@@ -6,4 +6,4 @@ As you can see, I have uploaded both the replication code of the original paper 
 I have also uploaded the data files needed to run the whole code until the end.
 At the bottom of the code, you will find the part of my replication.
 
-Note: I created the codes with the assistance of ChatGPT. All ideas, creativity, and decisions were entirely mine and the use of AI was completely technical for the purpose of convenience.
+Note: I created the codes with the assistance of AI. All ideas, creativity, and decisions were entirely mine and the use of AI was completely technical for the purpose of convenience.
