@@ -5,3 +5,5 @@ Science & Politics 57 (2): 149–61. https://doi.org/10.1017/S104909652300063X.
 As you can see, I have uploaded both the replication code of the original paper and the replication code of my own replication of the paper.
 I have also uploaded the data files needed to run the whole code until the end.
 At the bottom of the code, you will find the part of my replication.
+
+Note: I created the codes with the assistance of ChatGPT. All ideas, creativity, and decisions were entirely my own and the use of AI was completely technical for the purpose of convenience.
